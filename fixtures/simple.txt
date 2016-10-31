@@ -1,0 +1,8 @@
+Hello!
+This is a transducers library.
+ABCDEFG
+HIJKLMNOP
+QRS
+TUV
+WX
+YZ
